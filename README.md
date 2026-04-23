@@ -4,6 +4,8 @@
 
 ## 预览
 
+![zsh_nerv_welcome preview](assets/preview.png)
+
 ```zsh
 zsh /Users/egguncle/mydir/develop/AI/workspace/zsh_nerv_welcome/preview.zsh
 ```
